@@ -211,8 +211,6 @@ jupyter notebook                   # eseguire 01 → 02 → 03 → 04 in ordine
 - [Candy Hierarchy](https://www.scq.ubc.ca/?p=4471) 2015 e 2017, di David Ng e Ben Cohen (University of British Columbia, pubblicato su BoingBoing): 5.658 e 2.460 righe di sondaggio. Il file grezzo 2015 viene da [jennybc/candy](https://github.com/jennybc/candy).
 - [FiveThirtyEight Candy Power Ranking](https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking): attributi di 85 dolci.
 
-Prima di riutilizzare i dati, verificare le condizioni d'uso delle fonti.
-
 ## Autore
 
 **Alessandro Cucchi**
